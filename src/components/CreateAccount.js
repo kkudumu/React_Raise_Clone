@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { Parallax, Background } from 'react-parallax';
-import { Grid, Row, Col } from 'react-flexbox-grid';
+import { Parallax } from 'react-parallax';
+
 
 class CreateAccount extends Component {
     render(){
