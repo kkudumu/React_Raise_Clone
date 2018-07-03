@@ -24,9 +24,8 @@ class ProsThink extends Component {
                 <h5>
                 Fedor Holz, #1 Ranked Global Poker Index
                 </h5>
-                <p>
-                I have the highest respect for Ben as a poker Player. His work ethic and Approach to the game are very unique and make him one of the toughest opponents on the highest stakes. We spent a lot of time together talking about Hands and strategy and I can say that his insight has always been valuable to me.
-                </p>
+                <div className="fusion-text"><h6 style={{textAlign: 'justify', fontSize:22, fontWeight:400}} data-fontsize={18} data-lineheight={27}><em><i className="fontawesome-icon  fa fa-quote-left circle-no" style={{fontSize: 18, marginRight: 5, color: '#ff9800'}} />I have the highest respect for Ben as a poker Player. His work ethic and Approach to the game are very unique and make him one of the toughest opponents on the highest stakes. We spent a lot of time together talking about Hands and strategy and I can say that his insight has always been valuable to me.</em></h6>
+      </div>
                 </Col>
             </Row>
             <Row style={{flexDirection:'horizontal', paddingBottom:40}}>
@@ -37,9 +36,8 @@ class ProsThink extends Component {
                 <h5>
                 Patrick Leonhard (pads1611), Owner & Head coach of BitB
                 </h5>
-                <p>
-                Ben is undoubtedly one of the best players in the world, but in my opinion he excels even further in terms of coaching and is likely the best tournament poker coach in the world. I’ve worked with him on WSOP preparation where he showed just how well prepared and organized he is (something surprisingly rare for tournament coaches!) and instantly wanted him to be a part of bitB where he has taken the quality of our coaching to a higher level. Great player, great guy, great coach.
-                </p>
+                <div className="fusion-text"><h6 style={{textAlign: 'justify', fontSize:22, fontWeight:400}} data-fontsize={18} data-lineheight={27}><em><i className="fontawesome-icon  fa fa-quote-left circle-no" style={{fontSize: 18, marginRight: 5, color: '#ff9800'}} /></em><em>Ben is undoubtedly one of the best players in the world, but in my opinion he excels even further in terms of coaching and is likely the best tournament poker coach in the world. I’ve worked with him on WSOP preparation where he showed just how well prepared and organized he is (something surprisingly rare for tournament coaches!) and instantly wanted him to be a part of bitB where he has taken the quality of our coaching to a higher level. Great player, great guy, great coach.</em></h6>
+      </div>
                 </Col>
             </Row>
             <Row style={{flexDirection:'horizontal', paddingBottom:40}}>
@@ -50,9 +48,8 @@ class ProsThink extends Component {
                 <h5>
                 Steffen Sontheimer, 2017 Poker Masters Winner
                 </h5>
-                <p>
-                I know Ben for the biggest part of my poker career already. We were not just studying poker together, but were flatmates for more than a year sharing thoughts and strategies pretty much everyday. His work ethic and professionalism is outstanding and the combination of understanding theoretical concepts as well as applying those to player pools of all levels is rarely seen out there. I decided to play the highest live tournaments out there myself and one thing I can tell you guys for sure: I’m really happy to not face my buddy Ben out there in the Live-Arena.
-                </p>
+                <div className="fusion-text"><h6 style={{textAlign: 'justify', fontSize:22, fontWeight:400}} data-fontsize={18} data-lineheight={27}><em><i className="fontawesome-icon  fa fa-quote-left circle-no" style={{fontSize: 18, marginRight: 5, color: '#ff9800'}} /></em><em>I know Ben for the biggest part of my poker career already. We were not just studying poker together, but were flatmates for more than a year sharing thoughts and strategies pretty much everyday. His work ethic and professionalism is outstanding and the combination of understanding theoretical concepts as well as applying those to player pools of all levels is rarely seen out there. I decided to play the highest live tournaments out there myself and one thing I can tell you guys for sure: I’m really happy to not face my buddy Ben out there in the Live-Arena.</em></h6>
+      </div>
                 </Col>
             </Row>
             </Grid>

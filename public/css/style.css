@@ -53,7 +53,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: linear-gradient(45deg, #1de099, #ff8217);
+    background: linear-gradient(45deg, #ff8217, #ff8217);
     color: #fff;
     padding: 2px 20px 8px 20px;
     font-size: 16px;
@@ -64,7 +64,7 @@ h6 {
 }
 
 .back-to-top:focus {
-    background: linear-gradient(45deg, #1de099, #ff8217);
+    background: linear-gradient(45deg, #fff, #ff8217);
     color: #fff;
     outline: none;
 }
@@ -381,6 +381,10 @@ h6 {
     display: block;
     font-size: 13px;
     text-transform: none;
+}
+
+.nav-menu a:hover {
+    color: #ff8217;
 }
 
 .nav-menu ul li:hover>a {
